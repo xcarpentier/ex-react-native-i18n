@@ -1,9 +1,9 @@
-'use strict';
+import I18n from './vendor/i18n';
+import Exponent from 'exponent';
 
-const { NativeModules } = require('react-native');
-const { RNI18n } = NativeModules;
-let I18n = require('./vendor/i18n');
+I18n.initAsync = async () => {
+  const locale = await Exponent.Util.getCurrentLocaleAsync();
+  I18n.locale = (locale) ? locale.replace(/_/, '-') : '';
+}
 
-I18n.locale = (RNI18n) ? RNI18n.locale.replace(/_/, '-') : '';
-
-module.exports = I18n;
+export default I18n;

@@ -15,7 +15,8 @@
   ],
   "author": "Alexander Zaytsev",
   "license": "MIT",
-  "devDependencies": {
-    "react-native": "^0.5.0"
+  "devDependencies": {},
+  "peerDependencies": {
+    "exponent": "^11.0.0"
   }
 }
