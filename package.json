@@ -1,19 +1,21 @@
 {
   "name": "react-native-i18n",
-  "version": "0.1.1",
-  "description": "React Native and I18n.js integration",
+  "version": "0.0.1",
+  "description": "Exponentisation of => React Native and I18n.js integration",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/AlexanderZaytsev/react-native-i18n.git"
+    "url": "github.com/xcarpentier/react-native-i18n.git"
   },
   "keywords": [
     "react-native",
     "react-component",
     "ios",
-    "i18n"
+    "i18n",
+    "exponent",
+    "exponentjs"
   ],
-  "author": "Alexander Zaytsev",
+  "author": "Xavier Carpentier",
   "license": "MIT",
   "devDependencies": {},
   "peerDependencies": {
