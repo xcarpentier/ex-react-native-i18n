@@ -19,6 +19,6 @@
   "license": "MIT",
   "devDependencies": {},
   "peerDependencies": {
-    "exponent": "^11.0.0"
+    "exponent": ">=11.0.0"
   }
 }
