@@ -1,6 +1,6 @@
 {
   "name": "ex-react-native-i18n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Exponentisation of => React Native and I18n.js integration",
   "main": "index.js",
   "repository": {
@@ -12,6 +12,7 @@
     "react-component",
     "ios",
     "i18n",
+    "expo",
     "exponent",
     "exponentjs"
   ],
@@ -19,6 +20,6 @@
   "license": "MIT",
   "devDependencies": {},
   "peerDependencies": {
-    "exponent": ">=11.0.0"
+    "expo": ">=11.0.0"
   }
 }
