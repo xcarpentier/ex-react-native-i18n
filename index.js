@@ -1,5 +1,5 @@
 import I18n from './vendor/i18n';
-import Exponent from 'exponent';
+import Exponent from 'expo';
 
 I18n.initAsync = async () => {
   const locale = await Exponent.Util.getCurrentLocaleAsync();
