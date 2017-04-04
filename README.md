@@ -4,11 +4,11 @@ Integrates [I18n.js](https://github.com/fnando/i18n-js) with React Native and **
 <br/>
 
 ## Automatic setup
-`$ npm install github:xcarpentier/react-native-i18n --save`
+`$ npm install ex-react-native-i18n --save`
 
 or
 
-`$ yarn add github:xcarpentier/react-native-i18n`
+`$ yarn add ex-react-native-i18n`
 
 ## Usage
 ```javascript
