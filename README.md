@@ -1,4 +1,4 @@
-# react-native-i18n for ExponentJS
+# ex-react-native-i18n for ExponentJS
 Integrates [I18n.js](https://github.com/fnando/i18n-js) with React Native and ***Exponent***. Uses the device's locale as default.
 <br/>
 <br/>
