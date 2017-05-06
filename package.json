@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/xcarpentier/react-native-i18n.git"
+    "url": "github.com/xcarpentier/ex-react-native-i18n.git"
   },
   "keywords": [
     "react-native",
