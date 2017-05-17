@@ -65,7 +65,7 @@ For a device with a `en_GB` locale this will return `Hi from the UK!'`, for a de
 ### Device's locale
 You can get the device's locale with the `RNI18n` native module:
 ```js
-import I18n from 'react-native-i18n'
+import I18n from 'ex-react-native-i18n'
 const deviceLocale = I18n.locale
 ```
 
