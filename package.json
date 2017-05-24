@@ -12,13 +12,13 @@
     "react-component",
     "ios",
     "i18n",
-    "exponent",
+    "expo",
     "exponentjs"
   ],
   "author": "Xavier Carpentier",
   "license": "MIT",
   "devDependencies": {},
   "peerDependencies": {
-    "exponent": ">=11.0.0"
+    "expo": ">=16.0.0"
   }
 }
