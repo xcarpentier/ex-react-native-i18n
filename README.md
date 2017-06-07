@@ -11,6 +11,9 @@ or
 `$ yarn add ex-react-native-i18n`
 
 ## Usage
+
+Before copy usage see this issue: https://github.com/xcarpentier/ex-react-native-i18n/issues/7
+
 ```javascript
 import I18n from 'react-native-i18n'
 
