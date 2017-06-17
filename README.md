@@ -1,3 +1,6 @@
+[![NPM version](https://badge.fury.io/js/ex-react-native-i18n.svg)](http://badge.fury.io/js/ex-react-native-i18n)
+[![Downloads](https://img.shields.io/npm/dm/ex-react-native-i18n.svg)](https://www.npmjs.com/package/ex-react-native-i18n)
+
 # ex-react-native-i18n for Expo
 Integrates [I18n.js](https://github.com/fnando/i18n-js) with React Native and ***Expo***. Uses the device's locale as default.
 <br/>
