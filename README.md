@@ -23,8 +23,8 @@ import I18n from 'react-native-i18n'
 
 class Demo extends React.Component {
   // Async call to init the locale
-  async componentWillMount() {
-    await I18n.initAsync();
+  componentWillMount() {
+    I18n.initAsync();
   }
   render () {
     return (
