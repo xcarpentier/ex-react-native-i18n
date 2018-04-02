@@ -1,9 +1,9 @@
-import I18n from './vendor/i18n';
-import Expo from 'expo';
+import I18n from './vendor/i18n'
+import Expo from 'expo'
 
 I18n.initAsync = async () => {
-  const locale = await Expo.Util.getCurrentLocaleAsync();
-  I18n.locale = (locale) ? locale.replace(/_/, '-') : '';
+  const locale = await Expo.Localization.getCurrentLocaleAsync()
+  I18n.locale = (locale) ? locale.replace(/_/, '-') : ''
 }
 
-export default I18n;
+export default I18n
