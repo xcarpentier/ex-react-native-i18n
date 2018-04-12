@@ -1,6 +1,6 @@
 {
   "name": "react-native-i18n",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Exponentisation of => React Native and I18n.js integration",
   "main": "index.js",
   "repository": {
@@ -15,10 +15,10 @@
     "expo",
     "exponentjs"
   ],
-  "author": "Xavier Carpentier",
+  "author": "Xavier Carpentier <xcapetir@gmail.com>",
   "license": "MIT",
   "devDependencies": {},
   "peerDependencies": {
-    "expo": ">=16.0.0"
+    "expo": "*"
   }
 }
