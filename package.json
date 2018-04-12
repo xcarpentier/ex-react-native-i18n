@@ -1,5 +1,5 @@
 {
-  "name": "react-native-i18n",
+  "name": "ex-react-native-i18n",
   "version": "0.0.4",
   "description": "Exponentisation of => React Native and I18n.js integration",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "ios",
     "i18n",
     "expo",
+    "exponent",
     "exponentjs"
   ],
   "author": "Xavier Carpentier <xcapetir@gmail.com>",
