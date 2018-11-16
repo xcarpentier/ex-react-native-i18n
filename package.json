@@ -1,6 +1,6 @@
 {
   "name": "ex-react-native-i18n",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Exponentisation of => React Native and I18n.js integration",
   "main": "index.js",
   "repository": {
