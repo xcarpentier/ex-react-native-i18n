@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "description": "Exponentisation of => React Native and I18n.js integration",
   "main": "index.js",
-  "type": "index.d.ts",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "github.com/xcarpentier/ex-react-native-i18n.git"
