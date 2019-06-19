@@ -1,5 +1,5 @@
 import I18n from './vendor/i18n';
-import { Localization } from 'expo'
+import * as Localization from 'expo-localization'
 
 I18n.initAsync = async () => {
   const locale = await Localization.locale;
