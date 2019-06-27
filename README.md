@@ -81,3 +81,7 @@ Returns `en-US`.
 
 ### I18n.js documentation
 For more info about I18n.js methods (`localize`, `pluralize`, etc) and settings see [its documentation](https://github.com/fnando/i18n-js#setting-up).
+
+
+## Hire an expert!
+Looking for a ReactNative freelance expert with more than 12 years experience? Contact me from my [website](https://xaviercarpentier.com)!
