@@ -1,4 +1,5 @@
 export default class i18n {
+  static initAsync(): void
   static t(text: string, interpolation?: object): string
   static currentLocale(): string
   static getFallbackLocale(): string
@@ -8,4 +9,4 @@ export default class i18n {
   static missingTranslation(): string
   static localShort(): string
   static locale: string
- }
+}
